@@ -3,7 +3,8 @@
 int 
 main ()
 {
-    printf ("Deez Fuckin Nuts");
+    int deez = 10;
+    printf ("%d", deez);
 
     return 0;
 }
